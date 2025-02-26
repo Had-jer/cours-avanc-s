@@ -1,0 +1,27 @@
+body{
+    h1{
+        text-align: center;
+    }
+    div.container{
+        display: flex;
+        justify-content: space-evenly;
+        background-color: rgb(173, 160, 160);
+        width: 1700px;
+        padding:20px;
+
+        div.card{
+            background-color: rgb(30, 60, 72);
+            padding: 90px;
+            color: white;
+            margin: 10px;
+            height: 150px;
+            width: 200px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+        
+          
+        }
+    }
+}
